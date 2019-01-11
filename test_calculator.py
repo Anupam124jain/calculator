@@ -15,5 +15,4 @@ class TestCalculator:
         assert 2 == calculator.div(4, 2)
 
 if __name__ == '__main__':
-    t = TestCalculator()
-    
+    TestCalculator()
