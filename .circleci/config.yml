@@ -49,7 +49,7 @@ jobs:
           command: |
             . venv/bin/activate
 
-            python test
+            python test_calculator
 
 
       - store_artifacts:
