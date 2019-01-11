@@ -11,5 +11,5 @@ def sub(first_item, second_item):
 def mul(first_item, second_item):
     return first_item * second_item
 
-def devide(first_item, second_item):
+def div(first_item, second_item):
     return first_item / second_item
